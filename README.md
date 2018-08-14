@@ -1,0 +1,2 @@
+# python-hangman-game
+. It's a simple game in which the player needs to guess the word.    *The word to guess is represented by a row of dashes.   *If the player guesses a letter which exists in the word, the code writes it in all its correct positions.   *The code displays the number of letters guessed by the player and the number of letters yet to be guessed.  *When all the letters entered by the user match with the string to be guessed, a message "Word has been guessed" is displayed.
